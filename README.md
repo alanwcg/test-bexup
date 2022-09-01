@@ -1,9 +1,9 @@
-### Products API
+# Products API
 
 ## Steps to run project:
 
-# yarn build
+### yarn build
 
-# docker build -t test-bexup .
+### docker build -t test-bexup .
 
-# docker run -p 3333:3333 test-bexup
+### docker run -p 3333:3333 test-bexup
